@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+opencv-python
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+ultralytics
+ipykernel
